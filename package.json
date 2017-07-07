@@ -1,7 +1,10 @@
 {
   "private": true,
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.11.1"
   },
   "name": "todomvc-api",
   "version": "1.0.0",
